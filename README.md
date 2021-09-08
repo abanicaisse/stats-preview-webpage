@@ -25,9 +25,11 @@ Users should be able to:
 ### Screenshot
 
 1. Desktop Design
+![Stats Preview Card Desktop Design](https://user-images.githubusercontent.com/84383548/132560712-8bbf7eec-6fe9-42db-83df-87d288fe5873.png)
 
+1. Mobile Design <br>
+![Stats Preview Card Mobile Design](https://user-images.githubusercontent.com/84383548/132560820-a25a1d3e-13dc-4719-b31f-1975377a4d52.png)
 
-1. Mobile Design
 
 ### Links
 
